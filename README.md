@@ -30,3 +30,4 @@ cv2.destroyAllWindows()
 ## Object Detection Project Valorant
 
 - Precision is very low. Possible reason could be due to the high resolution of the images (1920\*1080) 
+- May be fixed by using a low resolution and then while detecting the images in real time we can use the mouse pointer as the origin of the capture region
