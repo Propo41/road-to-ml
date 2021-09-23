@@ -26,3 +26,7 @@ while True:
     
 cv2.destroyAllWindows()
 ```
+
+## Object Detection Project Valorant
+
+- Precision is very low. Possible reason could be due to the high resolution of the images (1920\*1080) 
